@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: #3498db;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.section {
+    flex: 1;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    height: 120px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #3498db;
+    font-family: Arial, sans-serif;
+}
